@@ -1,7 +1,4 @@
-
-
-<!--
-**yashwanthrajdj/yashwanthrajdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your # 💫 About Me:
+# 💫 About Me:
 Hey, I'm Yashwanth Raj 👋<br><br>💻 AI Full-Stack Developer | Web Designer | Cybersecurity Enthusiast<br><br>I build interactive, high-performance web experiences and end-to-end secure products that are designed to scale for the future.<br><br>⚡ What I do:<br><br>🎨 Craft interactive websites & WebGL-based experiences<br>🤖 Develop AI-powered full-stack applications<br>🔐 Focus on secure architecture & cybersecurity practices<br>☁️ Exploring cloud architecture & scalable systems<br><br>🛠️ Tech Stack:<br><br>💻 Frontend: React, JavaScript<br>⚙️ Backend: Python<br>🗄️ Database: SQL<br><br>💻CyberSecurity:Linux<br><br>🎯 Mission:<br>Building future-proof, scalable, and secure digital products 🌍
 
 
@@ -27,5 +24,4 @@ Hey, I'm Yashwanth Raj 👋<br><br>💻 AI Full-Stack Developer | Web Designer |
 ---
 [![](https://komarev.com/ghpvc/?username=yashwanthrajdj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->GitHub profile.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
